@@ -57,9 +57,15 @@ files {
 
     "html/sounds/PrisonJobs/drilling.mp3",
 
-    "html/sounds/AltJobs/SandyA1.mp3",
-    "html/sounds/AltJobs/SandyBM1.mp3",
-    "html/sounds/AltJobs/SandyD1.mp3"
+    "html/sounds/AltJobs/airport-liver.mp3",
+    "html/sounds/AltJobs/airport-teeth.mp3",
+    "html/sounds/AltJobs/blackmarket-brain.mp3",
+    "html/sounds/AltJobs/blackmarket-hearts.mp3",
+    "html/sounds/AltJobs/docks-chemicals.mp3",
+    "html/sounds/AltJobs/docks-juice.mp3",
+    "html/sounds/AltJobs/humanelabs-brain.mp3",
+    "html/sounds/AltJobs/nudistcolony-bones.mp3",
+    "html/sounds/AltJobs/nudistcolony-juice.mp3"
 }
 
 export 'PlaySound'
