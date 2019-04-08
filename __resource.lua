@@ -59,13 +59,38 @@ files {
 
     "html/sounds/AltJobs/airport-liver.mp3",
     "html/sounds/AltJobs/airport-teeth.mp3",
+    "html/sounds/AltJobs/airport-bones.mp3",
     "html/sounds/AltJobs/blackmarket-brain.mp3",
     "html/sounds/AltJobs/blackmarket-hearts.mp3",
+    "html/sounds/AltJobs/blackmarket-bones.mp3",
     "html/sounds/AltJobs/docks-chemicals.mp3",
     "html/sounds/AltJobs/docks-juice.mp3",
+    "html/sounds/AltJobs/docks-fluids.mp3",
+    "html/sounds/AltJobs/humane-juice.mp3"
     "html/sounds/AltJobs/humanelabs-brain.mp3",
+    "html/sounds/AltJobs/humanelabs-chemical.mp3",
     "html/sounds/AltJobs/nudistcolony-bones.mp3",
-    "html/sounds/AltJobs/nudistcolony-juice.mp3"
+    "html/sounds/AltJobs/nudistcolony-juice.mp3",
+    "html/sounds/AltJobs/nudist-teeth.mp3",
+    "html/sounds/AltJobs/butcher-brain.mp3",
+    "html/sounds/AltJobs/butcher-juice.mp3",
+    "html/sounds/AltJobs/butcher-liver.mp3",
+
+    "html/sounds/AltJobs/airport-bones-end.mp3",
+    "html/sounds/AltJobs/airport-teeth-end.mp3",
+    "html/sounds/AltJobs/airport-liver-end.mp3",
+    "html/sounds/AltJobs/blackmarket-bones-ending.mp3",
+    "html/sounds/AltJobs/blackmarket-heart-ending.mp3",
+    "html/sounds/AltJobs/blackmarket-brain-ending.mp3",
+    "html/sounds/AltJobs/nudist-juice-ending.mp3",
+    "html/sounds/AltJobs/nudist-teeth-ending.mp3",
+    "html/sounds/AltJobs/nudist-bone-ending.mp3"
+    "html/sounds/AltJobs/humane-brain-ending.mp3",
+    "html/sounds/AltJobs/humane-chemical-ending.mp3",
+    "html/sounds/AltJobs/humane-juice-ending.mp3",
+    "html/sounds/AltJobs/butcher-brain-end.mp3",
+    "html/sounds/AltJobs/butcher-juice-end.mp3",
+    "html/sounds/AltJobs/butcher-liver-end.mp3",
 }
 
 export 'PlaySound'
