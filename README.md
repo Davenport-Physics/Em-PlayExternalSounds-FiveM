@@ -1,6 +1,6 @@
 # Em-PlayExternalSounds-FiveM
 
-PlayExternalSounds is a sound server/plugin for FiveM. It's primary focus is the ability to play custom sounds both for just a single player and players within an area.
+PlayExternalSounds is a sound server/plugin for FiveM. It's primary focus is the ability to play custom sounds for a client and clients within an area.
 
 ## API
 
