@@ -29,4 +29,4 @@ Plays a sound file, with the base volume of .3f, for clients within the near vic
 
 ## License
 
-This software is licensed under the MIT license.
+This software is licensed under the MIT license. Audio files not explicitly licensed under the `sounds/license` text can be safely assumed to be licensed under the CC0.
